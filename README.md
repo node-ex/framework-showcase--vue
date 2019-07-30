@@ -1,5 +1,11 @@
 # framework-showcase--vue
 
+## Generation
+
+```bash
+vue create framework-showcase--vue
+```
+
 ## Project setup
 ```
 npm install
